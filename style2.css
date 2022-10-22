@@ -1,0 +1,152 @@
+*{
+  margin: 0px;
+  padding: 0px;
+ }
+
+ .superior{
+ 
+  background-color: rgb(0, 14, 163);
+  height: 15%;  
+
+ }
+
+ .titulo{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;  
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+  
+ 
+ }
+
+ .section{
+  background-color: rgb(164, 190, 240);
+  height: 70%;
+  position: relative;
+  
+  
+ }
+
+ .contenedor1{  
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 20px;
+  left:420px ;
+  background-repeat: no-repeat;
+
+}
+
+.contenedor2{  
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 20px;
+  left:620px ;
+  background-repeat: no-repeat;
+
+}
+
+.contenedor3{ 
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  top: 20px;
+  left:820px ;
+  background-repeat: no-repeat;
+
+}
+
+.tit-1{
+  display:flex;
+  position: absolute;
+  top:150px;  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+
+.mov{
+  margin-left: 455px;
+}
+
+.servcli{
+  margin-left: 110px;
+}
+
+.stec{
+  margin-left: 60px;
+}
+
+
+.contenedor4{
+
+ 
+  position: absolute;  
+  top: 200px;
+  left:250px ;
+
+ }
+ .conte4-ima{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+ }
+
+ .contenedor5{
+ 
+  position: absolute;
+  width: 170px;
+  height: 170px;
+  top: 200px;
+  left:950px ;
+  background-repeat: no-repeat;
+ }
+
+ .conte5-ima{
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+}
+
+ .tit-2{
+  display:flex;
+  position: absolute;
+  top:380px;  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  left: 265px;
+   }
+
+
+
+.tit-2 a:hover{
+  color: white;
+  background-color: rgb(121, 191, 237);
+
+}
+
+.tit-2 a{
+  text-decoration-line: none;
+  color: black;
+
+
+}
+ .carmasi{
+  margin-left: 565px;
+ }
+
+ 
+  
+  .footer{   
+   height: 15%;
+   background-color: rgb(0, 14, 163);
+   
+    }
+
+  .home{
+    margin-top: 25px;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+  }

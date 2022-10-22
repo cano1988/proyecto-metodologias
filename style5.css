@@ -1,0 +1,175 @@
+*{
+  margin: 0px;
+  padding: 0px;
+ }
+
+ .superior{
+ 
+  background-color: rgb(0, 14, 163);
+  height: 15%;  
+
+ }
+
+ .titulo{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;  
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+  }
+
+  .section{
+  background-color: rgb(164, 190, 240);
+  height: 70%;
+  position: relative;
+  }
+
+  .contenedor1{  
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 20px;
+    left:420px ;
+    background-repeat: no-repeat;
+  
+  }
+  
+  .contenedor2{  
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 20px;
+    left:620px ;
+    background-repeat: no-repeat;
+  
+  }
+  
+  .contenedor3{ 
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 20px;
+    left:820px ;
+    background-repeat: no-repeat;
+  
+  }
+  
+  .tit-1{
+    display:flex;
+    position: absolute;
+    top:100px;  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+  }
+  
+  .mov{
+    margin-left: 430px;
+  }
+  
+  .servcli{
+    margin-left: 110px;
+  }
+  
+  .stec{
+    margin-left: 60px;
+  }
+
+  /**Rectangle-fecha_KPI_semento**/
+  
+  .rectangle{
+    position: relative;
+    width: 250px;
+    height:351px;
+    left: 0px;
+    top: 100px;
+    background: #5272C4;
+   
+  
+  }
+
+
+ .field{
+    display: flex;
+    flex-direction: column;
+    width: 14.5rem;   
+    padding:5px 5px
+  }
+
+.field label{
+margin-bottom: 0.2rem;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: white;
+font-weight: bold;
+font-size: 1.2rem;
+}
+
+.field input, select{
+  font-size: 15px;
+  border-radius: 5px;
+  height: 2rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: white;
+
+}
+
+/** GRAFICOS**/
+
+.graf1{
+ position:absolute;
+ left:300px;
+ top:70px
+ 
+ }
+
+ .graf1-1{
+
+  width: 200px;
+  height: 200px;
+ }
+
+
+
+.graf2{
+  position:absolute;
+  left:600px;
+  top:70px
+}
+
+.graf2-2{
+
+  width: 200px;
+  height: 200px;
+ }
+
+
+
+.graf3{
+  position:absolute;
+  left:900px;
+  top:45px
+
+  }
+
+
+  .graf3-3{
+
+    width: 250px;
+    height: 250px;
+   }
+  
+
+/** FOOTER**/
+
+  .footer{   
+    height: 15%;
+    background-color: rgb(0, 14, 163);
+ 
+   
+   }
+
+   .home{
+    margin-top: 25px;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+  }

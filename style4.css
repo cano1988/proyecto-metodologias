@@ -1,0 +1,246 @@
+*{
+  margin: 0px;
+  padding: 0px;
+ }
+
+ .superior{
+ 
+  background-color: rgb(0, 14, 163);
+  height: 15%;  
+  
+
+ }
+
+ .titulo{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;  
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+  }
+
+  .section{
+  background-color: rgb(164, 190, 240);
+  height: 70%;  
+  padding-left: 150px;
+  
+  
+  }
+
+
+
+  
+  /** Nombre**/
+.nam{
+    position:relative;
+    top:20px;    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+   
+    
+   
+  }
+
+
+  #nombre{
+   width: 250px;
+   height: 30px;
+   position: relative;
+   left: 34px;
+
+
+  }
+  /** Nombre-logo**/
+
+
+.btn{
+ width:25px;
+ height:25px;
+ position: absolute;
+ left:360px;
+ bottom: 0px;
+
+}
+
+
+  /** Email**/
+.ema{
+  position:relative;
+  top:25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+
+ 
+}
+
+#email{
+  width: 250px;
+  height: 30px;
+  position: relative;
+  left: 48px;
+ 
+
+}
+
+/** Email-logo**/
+
+.btn2{
+  width:25px;
+  height: 25px;
+  position: absolute; 
+  left:360px;
+  bottom: 0px;
+  
+
+}
+
+
+.btn3{
+  width:25px;
+  height:25px;
+  position: absolute; 
+  left:385px;
+  bottom: 0px;
+
+}
+/**Teléfono**/
+
+.tel{
+  position:relative;
+  top: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+ 
+
+  }
+
+#Telefono{
+  width: 200px;
+  height: 30px;
+  position: relative;
+  left: 30px;  
+
+}
+
+
+/**Teléfono-logo**/
+
+.btn4{
+  width:25px;
+  height:25px;
+  position: absolute; 
+  left:310px;
+  bottom: 0px;
+}
+
+.btn5{
+  width:25px;
+  height:25px;
+  position: absolute; 
+  left:335px;
+  bottom: 0px;
+}
+
+/** perfil**/
+
+
+.per{
+  position:relative;
+  top:60px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  
+}
+
+
+#Perfil{
+  width: 200px;
+  height: 30px;
+  position: relative;
+  left: 57px
+
+}
+
+/** perfil-logo**/
+
+.btn6{
+  width:25px;
+  height:25px;
+  position: absolute; 
+  left:310px;
+  bottom: 0px;
+}
+
+.btn7{
+  width:25px;
+  height:25px;
+  position: absolute; 
+  left:335px;
+  bottom: 0px;
+}
+
+
+.icon4{
+
+  position: relative;
+  top: 40px;
+  
+  
+}
+
+.eti p{
+  display: inline-block;
+  position: relative;
+  top:180px;
+  left: 410px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  padding-left:60px;
+  
+}
+
+.delet-icon{
+ position: absolute; 
+ left: 450px;
+ width: 90px;
+ height: 100px;
+ top: 70px;
+
+}
+
+
+.save-icon{
+  position: absolute;
+  right: 550px;
+  width: 90px;
+  height: 100px;
+  top: 70px;
+ }
+
+
+ .user{
+  position: absolute;
+  top: 90px;
+  left: 600px;
+  width:160px;
+  height: 150px;
+  
+ }
+
+
+
+ 
+
+  .footer{   
+    height: 15%;
+    background-color: rgb(0, 14, 163);
+   
+   }
+
+   .home{
+    margin-top: 25px;
+    margin-left: 10px;
+    width: 40px;
+    height: 40px;
+  } 
+  

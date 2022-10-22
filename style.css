@@ -1,0 +1,158 @@
+*{
+  margin: 0px;
+  padding: 0px;
+ }
+
+ .superior{
+ 
+  background-color: rgb(0, 14, 163);
+  height: 15%;
+
+  
+  
+  
+
+  
+
+ }
+
+ .titulo{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;  
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px
+  
+ 
+ }
+
+ .formulario_p{
+  background-color: rgb(164, 190, 240);
+  height: 70%;
+  position: relative;
+  
+  
+ }
+
+ .contenedor{
+  padding-top:50px;
+  margin-left: 200px;
+
+  
+
+ }
+ 
+ #correo{
+  margin-left: 40px;
+  height: 30px;
+  width: 170px;
+ 
+  
+ }
+
+ .input-contenedor{
+  padding-top: 20px;
+   }
+
+   #Contraseña{
+    height: 30px;
+    margin-left: 10px;
+    width: 170px;
+  }
+    
+  .indice{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+  }  
+    
+  
+  #ti_img{
+    margin-top: 90px;
+    margin-left: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+  
+  }
+
+
+
+
+.parrafos{
+  margin-top: 167px;
+  margin-left: 100px;
+  display: flex;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+
+  #ti_img2{    
+    margin-left: 165px;    
+  }
+
+  #ti_img3{     
+   margin-left:180px;    
+      
+  }
+
+  #ti_img2,#ti_img3{
+   color:black;
+   text-decoration-line: none;
+   
+  
+
+  }
+
+  #ti_img2:hover, #ti_img3:hover{
+
+    color: white;
+    background-color: rgb(121, 191, 237);
+ 
+   
+  
+
+    
+   }
+   .img_1{
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    right: 90px;
+    top: 50px;
+    
+   
+    
+
+   }
+
+   .img_2{
+    
+    width: 170px;
+    height: 160px;
+    position: absolute;
+    bottom: 40px;
+    left:210px;
+    border-radius: 50%;
+
+   }
+
+
+ .img_3{
+  width: 170px;
+  height: 160px;
+  position: absolute;
+  bottom: 40px;
+  left:460px;
+ 
+
+  }
+
+  .footer{   
+   height: 15%;
+   background-color: rgb(0, 14, 163);
+
+  
+  }
